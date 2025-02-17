@@ -4,14 +4,14 @@ site:
   base: '/'
   trailingSlash: false
 
-  googleSiteVerificationId: orcPxI47GSa-cRvY11tUe6iGg2IO_RPvnA1q95iEM3M
+  googleSiteVerificationId: 5SS9aJ6aIlb2dlsyhaNUwg8XEmYLw7-b7bHxpu6vSNI
 
 # Default SEO metadata
 metadata:
   title:
     default: Fariz Ramadhan
     template: '%s — Fariz Ramadhan'
-  description: "\U0001F680 Suitable for Startups, Small Business, Sass Websites, Professional Portfolios, Marketing Websites, Landing Pages & Blogs."
+  description: "Android dev for 9+ years, now a fullstack developer with a passion for Backend & Ruby on Rails. Always learning, always building!"
   robots:
     index: true
     follow: true
