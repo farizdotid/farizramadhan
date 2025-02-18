@@ -1,10 +1,10 @@
 site:
   name: Fariz Ramadhan - Software Engineer
-  site: 'https://farizramadhan.com'
+  site: 'https://farizlogs.com'
   base: '/'
   trailingSlash: false
 
-  googleSiteVerificationId: 5SS9aJ6aIlb2dlsyhaNUwg8XEmYLw7-b7bHxpu6vSNI
+  googleSiteVerificationId: uQWKIS9YlqNQhVsMsx1N6_mOkVWaYrXVwBiydkCUdP8
 
 # Default SEO metadata
 metadata:
